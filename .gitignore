@@ -1,0 +1,4 @@
+# Plaintext source and password never go to the public repo.
+src/
+.env
+.DS_Store
